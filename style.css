@@ -1,0 +1,10 @@
+body { 
+    background-color :plum;
+    text-align:center;
+    color:black;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+img{ 
+    border-radius:20px;
+}
